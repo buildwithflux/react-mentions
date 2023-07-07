@@ -3,6 +3,7 @@
   "version": "4.4.9",
   "description": "React mentions input",
   "main": "dist/react-mentions.cjs.js",
+  "types": "index.d.ts",
   "module": "dist/react-mentions.esm.js",
   "files": [
     "dist"
